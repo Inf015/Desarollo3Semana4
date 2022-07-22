@@ -1,0 +1,10 @@
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\bin\Debug\Peru.mdf
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\bin\Debug\Peru_log.ldf
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\bin\Debug\Semana 4 Oliver 1100292.exe.config
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\bin\Debug\Semana 4 Oliver 1100292.exe
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\bin\Debug\Semana 4 Oliver 1100292.pdb
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\obj\Debug\Semana 4 Oliver 1100292.csproj.AssemblyReference.cache
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\obj\Debug\Semana 4 Oliver 1100292.csproj.SuggestedBindingRedirects.cache
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\obj\Debug\Semana 4 Oliver 1100292.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\obj\Debug\Semana 4 Oliver 1100292.exe
+C:\Users\olive\source\Desarrollo 3\Semana 4 Oliver 1100292\Semana 4 Oliver 1100292\obj\Debug\Semana 4 Oliver 1100292.pdb
